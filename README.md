@@ -127,3 +127,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **OSU! 🥋** - *The Ultimate Truth*
 
 極真空手 - Kyokushin Karate
+# karate_project
